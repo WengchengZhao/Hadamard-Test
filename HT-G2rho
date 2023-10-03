@@ -20,7 +20,7 @@ M0=M0_Gate #自定义计算基M0
 
 M1_mat=np.array([[0,0],[0,1]])
 M1_Gate=UnivMathGate('M1',M1_mat)
-M1=M1_Gate #自定义计算基M1
+M1=M1_Gate #自定义计算基M
 
 M=[M0,M1]
 p1=0.1
