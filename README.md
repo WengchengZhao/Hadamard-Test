@@ -1,3 +1,4 @@
+# Hadamard Test
 Code for calculating $Tr(\rho^2)$: $HT - Tr(\rho^2)$
 
 Code for calculating $Tr(\rho^3)$: $HT - Tr(\rho^3)$
